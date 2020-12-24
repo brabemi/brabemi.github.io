@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mirek&#39;s blog</title>
-    <link>https://brabemi.github.io/</link>
-    <description>Recent content on Mirek&#39;s blog</description>
+    <title>elasticsearch on Mirek&#39;s blog</title>
+    <link>https://brabemi.github.io/tags/elasticsearch/</link>
+    <description>Recent content in elasticsearch on Mirek&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 15:00:12 +0100</lastBuildDate><atom:link href="https://brabemi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 2020 15:00:12 +0100</lastBuildDate><atom:link href="https://brabemi.github.io/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS Graviton2 and Elasticsearch - the first impression</title>
       <link>https://brabemi.github.io/posts/aws-arm-elastic-1/</link>
@@ -15,15 +15,6 @@
       <guid>https://brabemi.github.io/posts/aws-arm-elastic-1/</guid>
       <description>You may have noticed there is lot of noise about ARM vs x86. I would say mainly because of new mac books wit apple silicon. But if you are AWS user you may have noticed that Amazon has arm based EC2 instances for a while.
 Motivation At the moment there is 2nd generation of AWS Graviton processors and available EC2 T4g, M6g, C6g, and R6g instances, and their variants with local NVMe-based SSD storage, that provide up to 40% better price performance over comparable current generation x86-based instances [1].</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://brabemi.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 23 Dec 2020 21:35:58 +0100</pubDate>
-      
-      <guid>https://brabemi.github.io/posts/my-first-post/</guid>
-      <description>This in my firs post with Hugo.</description>
     </item>
     
   </channel>

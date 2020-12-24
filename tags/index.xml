@@ -5,6 +5,34 @@
     <link>https://brabemi.github.io/tags/</link>
     <description>Recent content in Tags on Mirek&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://brabemi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Dec 2020 15:00:12 +0100</lastBuildDate><atom:link href="https://brabemi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arm</title>
+      <link>https://brabemi.github.io/tags/arm/</link>
+      <pubDate>Thu, 24 Dec 2020 15:00:12 +0100</pubDate>
+      
+      <guid>https://brabemi.github.io/tags/arm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aws</title>
+      <link>https://brabemi.github.io/tags/aws/</link>
+      <pubDate>Thu, 24 Dec 2020 15:00:12 +0100</pubDate>
+      
+      <guid>https://brabemi.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elasticsearch</title>
+      <link>https://brabemi.github.io/tags/elasticsearch/</link>
+      <pubDate>Thu, 24 Dec 2020 15:00:12 +0100</pubDate>
+      
+      <guid>https://brabemi.github.io/tags/elasticsearch/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
